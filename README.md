@@ -1,6 +1,6 @@
 # Diseño Software
 
-Prácticas Diseño Software (curso 2021/22)
+Prácticas Diseño Software (curso 2022/23)
 
 ## Calificaciones
 
